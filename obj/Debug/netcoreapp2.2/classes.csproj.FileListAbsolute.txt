@@ -9,3 +9,13 @@ C:\Users\newforce\workspace\cohort-two\classes\obj\Debug\netcoreapp2.2\classes.A
 C:\Users\newforce\workspace\cohort-two\classes\obj\Debug\netcoreapp2.2\classes.AssemblyInfo.cs
 C:\Users\newforce\workspace\cohort-two\classes\obj\Debug\netcoreapp2.2\classes.dll
 C:\Users\newforce\workspace\cohort-two\classes\obj\Debug\netcoreapp2.2\classes.pdb
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\bin\Debug\netcoreapp2.2\classes.deps.json
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\bin\Debug\netcoreapp2.2\classes.runtimeconfig.json
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\bin\Debug\netcoreapp2.2\classes.runtimeconfig.dev.json
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\bin\Debug\netcoreapp2.2\classes.dll
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\bin\Debug\netcoreapp2.2\classes.pdb
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\obj\Debug\netcoreapp2.2\classes.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\obj\Debug\netcoreapp2.2\classes.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\obj\Debug\netcoreapp2.2\classes.AssemblyInfo.cs
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\obj\Debug\netcoreapp2.2\classes.dll
+C:\Users\newforce\workspace\teaching\c#\intro-to-csharp-classes\obj\Debug\netcoreapp2.2\classes.pdb

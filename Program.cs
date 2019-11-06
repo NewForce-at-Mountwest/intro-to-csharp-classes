@@ -65,7 +65,8 @@ namespace classes
             Book bookOfLove = new Book("The Book of Love", "Coach Dave");
             bookOfLove.ISBNNumber = 3456;
 
-            Book bookOfDespair = new Book("The Book of Despair", "Jordan"){
+            Book bookOfDespair = new Book("The Book of Despair", "Jordan")
+            {
                 ISBNNumber = 1234
             };
 
@@ -93,7 +94,38 @@ namespace classes
 
             eastSideLibrary.AddBook(bookOfDespair);
             eastSideLibrary.AddBook(bookOfLove);
+            eastSideLibrary.AddBook("Harry Potter", "J.K. Rowling", 3456677);
             eastSideLibrary.ListBooks();
+
+            Patron Daryl = new Patron
+            {
+                FirstName = "Daryl",
+                LastName = "Adkins",
+                StreetAddress = "123 Sesame St",
+                PhoneNumber = "999-999-9999",
+                LibraryCardNumber = 1234,
+            };
+
+            Librarian Seaver = new Librarian()
+            {
+                FirstName = "Seaver",
+                LastName = "Stanley",
+                StreetAddress = "123 Sesame St",
+                PhoneNumber = "999-999-9999",
+                NumberOfShushes = 42,
+                PlaceOfWork = eastSideLibrary
+            };
+
+            Child Jimmy = new Child(){
+                FirstName = "Jimmy",
+                LastName = "Bob",
+                LibraryCardNumber = 12345,
+                IsDisruptive = true
+            };
+
+            Seaver.sayHello();
+            Daryl.sayHello();
+            Jimmy.sayHello();
 
 
 

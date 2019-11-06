@@ -22,6 +22,18 @@ namespace classes
             }
         }
 
+        public void AddBook(string title, string author, int ISBN){
+              if(BookCapacity > _bookInventory.Count){
+               Book newBook = new Book(title, author){
+                   ISBNNumber = ISBN
+               };
+               _bookInventory.Add(newBook);
+            } else {
+                Console.WriteLine("The library is full.");
+            }
+
+        }
+
         // Method to print book inventory to console (since it's private)
         public void ListBooks(){
               foreach(Book singleBook in _bookInventory){

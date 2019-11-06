@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\newforce\\workspace\\cohort-two\\classes\\classes.csproj",
+      "projectUniqueName": "c:\\Users\\newforce\\workspace\\teaching\\c#\\intro-to-csharp-classes\\classes.csproj",
       "projectName": "classes",
-      "projectPath": "C:\\Users\\newforce\\workspace\\cohort-two\\classes\\classes.csproj",
+      "projectPath": "c:\\Users\\newforce\\workspace\\teaching\\c#\\intro-to-csharp-classes\\classes.csproj",
       "packagesPath": "C:\\Users\\newforce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\newforce\\workspace\\cohort-two\\classes\\obj\\",
+      "outputPath": "c:\\Users\\newforce\\workspace\\teaching\\c#\\intro-to-csharp-classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,10 +734,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
